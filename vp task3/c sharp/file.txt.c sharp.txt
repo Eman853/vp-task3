@@ -1,0 +1,22 @@
+// Declare a variable named 'playerName'
+// This will store the name of the player
+Make a variable: playerName
+
+// Initialize the 'playerName' variable with a value
+Set [playerName v] to [Alex]
+
+// Declare a variable named 'score'
+// This will track the player's score
+Make a variable: score
+
+// Initialize the 'score' variable to 0
+Set [score v] to [0]
+
+// Increase score by 10 (for example, when the player wins a point)
+Change [score v] by [10]
+
+// Declare a variable to check if the game is over
+Make a variable: gameOver
+
+// Set 'gameOver' to false at the start
+Set [gameOver v] to [false]v
